@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Brianna aka Breezy and I'm a  Front-end Dev from Cambridge, MA. I currently reside in Dallas, Texas</p>
+<p align="left">My name is Brianna aka Breezy and I'm a  Front-end Dev that currently resides in Dallas, Texas</p>
 
 ###
 
