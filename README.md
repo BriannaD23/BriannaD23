@@ -1,8 +1,5 @@
-### Hi there 👋
 
-<!--
-**BriannaD23/BriannaD23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+\
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -34,4 +31,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
 </div>
 
-###
