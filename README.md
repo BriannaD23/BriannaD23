@@ -1,5 +1,5 @@
 
-<img src="https://i.postimg.cc/50BGgxbQ/breezy-1.png"/>
+<img src="https://i.postimg.cc/50BGgxbQ/breezy-1.png"</>
 
 
 <h1 align="left">Hey 👋 What's up?</h1>
