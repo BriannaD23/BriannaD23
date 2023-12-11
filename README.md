@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Brianna I'm a  Front-end Dev that currently resides in Dallas, Texas</p>
+<p align="left">My name is Brianna I'm a  Front-end Dev that currently resides in Cambridge, Massachusetts</p>
 
 ###
 
