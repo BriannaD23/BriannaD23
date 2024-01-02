@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022 <br> 🎯 Goals: My biggest goal of this year is to land a Front-End Dev position<br>🎲 Fun fact: I ran track & feild in College</p>
+<p align="left">✨ Creating bugs since 2022 <br> 🎯 Goals: My biggest goal of this year is to land a Front-End Dev position<br>🎲 Fun fact: I play video games </p>
 
 ###
 
