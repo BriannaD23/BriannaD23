@@ -1,4 +1,4 @@
-
+i
 <img src="https://i.postimg.cc/50BGgxbQ/breezy-1.png" />
 
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Brianna I'm a  Front-end Dev that currently resides in Cambridge, Massachusetts</p>
+<p align="left">My name is Breezy I'm a  Front-end Dev that currently resides in Cambridge, Massachusetts</p>
 
 ###
 
