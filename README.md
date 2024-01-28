@@ -10,11 +10,11 @@
 
 ###
 
-<h2 align="left"> About Me !!</h2>
+<h2 align="left"> About Me!</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2022 <br> 🎯 Goals: My biggest goal of this year is to build more projects !<br> 🎲 Fun fact: I'm currently playing GTA 5</p>
+<p align="left">✨ Creating bugs since 2022 <br> 🎯 Goals: My biggest goal of this year is to build more projects !<br> 🎲 Fun fact: I love playing video games 🎮</p>
 
 ###
 
