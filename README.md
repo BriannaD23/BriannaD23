@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Breezy I'm a  Front-end Dev that currently resides in The Bay 😊☀️! </p>
+<p align="left">My name is Brianna and I'm a  Front-end Dev that currently resides in The Bay 😊☀️! </p>
 
 ###
 
