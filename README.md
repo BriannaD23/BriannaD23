@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022 <br> 🎯 Goals: My biggest goal of this year is to build 🔨 more projects !<br> 🎲 Fun fact: I love playing video games 🎮</p>
+<p align="left">✨ Creating bugs since 2022!! <br> 🎯 Goals: My biggest goal of this year is to build 🔨 more projects !<br> 🎲 Fun fact: I love playing video games 🎮</p>
 
 ###
 
