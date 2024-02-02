@@ -78,7 +78,7 @@ With a keen eye for design and a passion for front-end development, I specialize
       <h3 align="center"> Rick and Morty Universe</h3>
       <br />
         <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="/images/Rick&Morty.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -86,7 +86,7 @@ With a keen eye for design and a passion for front-end development, I specialize
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://rickmortyuniverseapi.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=lightgreen&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & JavaScript</strong> -This Rick and Morty project serves as an expansive resource, offering in-depth insights into various characters, including their names, unique attributes, and the captivating journeys they undertake.</p>
