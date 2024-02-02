@@ -21,9 +21,7 @@
 
 <p align="left">
 I'm Brianna, a passionate Frontend JavaScript Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). 🚀
-
-🌟 About Me<br>
-With a keen eye for design and a passion for front-end development, I specialize in crafting seamless user experiences. Proficient in HTML, CSS, and JavaScript, I bring ideas to life through clean and responsive code.
+Check out [my portfolio](https://briannaduncandevportfolio.netlify.app/) !!!
 
 ###
 ###
