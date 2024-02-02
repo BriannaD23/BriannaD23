@@ -26,8 +26,9 @@ I'm Brianna, a passionate Frontend JavaScript Developer specializing in the MERN
 With a keen eye for design and a passion for front-end development, I specialize in crafting seamless user experiences. Proficient in HTML, CSS, and JavaScript, I bring ideas to life through clean and responsive code.
 
 ###
+###
 
-<h2 align="left"> Projects </h2>
+<h1 align="center"> Projects👷🏾‍♀️ 🔨</h1>
 
 ###
 
@@ -119,7 +120,7 @@ With a keen eye for design and a passion for front-end development, I specialize
 
 
 
-<h3 align="left">Languages & Tools:</h3>
+<h1 align="left">Languages & Tools:</h1>
 
 <section align="center"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange?logo=CSS3&logoColor=orange&labelColor=grey">
