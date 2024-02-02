@@ -133,20 +133,18 @@ With a keen eye for design and a passion for front-end development, I specialize
   <img alt="Static Badge" src="https://img.shields.io/badge/GIT-orange?logo=git&logoColor=orange&labelColor=grey">
 
 
-
-
-
-
-
-
-
   
 </section>
 
 
 ###
 
+---
 
+---
+
+
+<h1 align="left">Extras</h1>
 
 
 
