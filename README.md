@@ -39,7 +39,7 @@ With a keen eye for design and a passion for front-end development, I specialize
       <h3 align="center"> Sneaker Room</h3>
         <br />
         <a target="_blank" href="https://shawncharles.com/travelara">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+            <img src="/images/sneakers.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
