@@ -15,11 +15,15 @@
 
 
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 </h1>
 
 ###
 
-<p align="left">My name is Brianna and I'm a  Front-end Dev that currently resides in The Bay 😊☀️! </p>
+<p align="left">
+I'm Brianna, a passionate Frontend JavaScript Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). 🚀
+
+🌟 About Me<br>
+With a keen eye for design and a passion for front-end development, I specialize in crafting seamless user experiences. Proficient in HTML, CSS, and JavaScript, I bring ideas to life through clean and responsive code.
 
 ###
 
@@ -121,7 +125,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange?logo=CSS3&logoColor=orange&labelColor=grey">
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?logo=CSS3&logoColor=blue&labelColor=grey">
   <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-yellow?logo=CSS3&logoColor=yellow&labelColor=grey">
-  <img alt="Static Badge" src="https://img.shields.io/badge/BOOTSTRAP-purple?logo=bootstrap&logoColor=white&labelColor=grey">
+  <img alt="Static Badge" src="https://img.shields.io/badge/BOOTSTRAP-purple?logo=bootstrap&logoColor=purple&labelColor=grey">
   <img alt="Static Badge" src="https://img.shields.io/badge/EXPRESS-white?logo=Express&logoColor=white&labelColor=grey">
   <img alt="Static Badge" src="https://img.shields.io/badge/MONGODB-darkgreen?logo=Mongodb&logoColor=green&labelColor=grey">
   <img alt="Static Badge" src="https://img.shields.io/badge/NODEJS-green?logo=node.js&logoColor=green&labelColor=grey">
