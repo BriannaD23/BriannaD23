@@ -5,7 +5,7 @@
 <section align = "center">
     <a href="https://www.linkedin.com/in/briannaduncan/"><img alt="Static Badge" src="https://img.shields.io/badge/%7C_LinkedIn-blue?logo=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbriannaduncan%2F"></a>
     <img src= https://img.shields.io/badge/Resume-lightblue?logo=DocuSign&logoColor=white&labelColor=grey>
-   <a href="https://www.linkedin.com/in/briannaduncan/"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-green?logo=React&logoColor=white&labelColor=grey"></a>
+   <a href="https://briannaduncandevportfolio.netlify.app/"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-green?logo=React&logoColor=white&labelColor=grey"></a>
 
   
 </section>
