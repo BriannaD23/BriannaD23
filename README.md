@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="https://i.postimg.cc/mrJq8Lm7/Briannad-Header.png" alt="Centered Image" style ="border-radius: 8px;">
+</p>
 
-<img src= https://i.postimg.cc/CMDJpHKy/Briannad-Header.png>
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue)
+<section align = "center">
+ <a href="https://www.linkedin.com/in/briannaduncan/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbriannaduncan%2F"></a>
+</section>
+
 
 
 
