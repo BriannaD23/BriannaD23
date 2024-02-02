@@ -39,17 +39,17 @@ Check out [my portfolio](https://briannaduncandevportfolio.netlify.app/) 🙂!
     <td width="50%" valign="top">
       <h3 align="center"> Sneaker Room</h3>
         <br />
-        <a target="_blank" href="https://shawncharles.com/travelara">
+        <a target="_blank" href="https://sneaker-room.netlify.app/">
             <img src="/images/sneakers.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  <a href="https://github.com/BriannaD23/sneaker-website" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=lightblue&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href='https://sneaker-room.netlify.app/' target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=green&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5 CSS3 JavaScript</strong> - Welcome to Sneaker Room, where kicks are more than just shoes—they're a vibe. Dive into our curated collections for some serious sneaker game and let your style do the talking with kicks that tell your story.</p>
@@ -63,11 +63,11 @@ Check out [my portfolio](https://briannaduncandevportfolio.netlify.app/) 🙂!
         <br />
         <p align="center">
           
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  <a href="https://github.com/BriannaD23/Pokemon" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=lightblue&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://pokedexuniverse.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=green&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5 CSS3 JavaScript</strong> - This comprehensive guide, akin to a Pokedex, provides in-depth details about various Pokemon species, including their names, unique traits, and extraordinary abilities.</p>
@@ -78,16 +78,16 @@ Check out [my portfolio](https://briannaduncandevportfolio.netlify.app/) 🙂!
     <td width="50%" valign="top">
       <h3 align="center"> Rick and Morty Universe</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
+        <a target="_blank" href="https://rickmortyuniverseapi.netlify.app">
           <img src="/images/Rick&Morty.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  <a href="https://github.com/BriannaD23/Rick-Morty" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=lightblue&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://rickmortyuniverseapi.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=lightgreen&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=green&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & JavaScript</strong> -This Rick and Morty project serves as an expansive resource, offering in-depth insights into various characters, including their names, unique attributes, and the captivating journeys they undertake.</p>
@@ -95,17 +95,17 @@ Check out [my portfolio](https://briannaduncandevportfolio.netlify.app/) 🙂!
     <td width="50%" valign="top">
       <h3 align="center"> Little Italy </h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="/images/LittleItaly.gif" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="https://littleitalypizza.netlify.app">
+          <img src="/images/LittleItaly.gif" width="100%" />
         </a>
         <br />
         <p align="center">
           
-  <a href="https://littleitalypizza.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  <a href="https://github.com/BriannaD23/Pizza" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=lightbluef&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://littleitalypizza.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=green&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & JavaScript</strong> - Step into a world of pizza perfection with Little Italy Pizzeria. This landing page is the gateway to exquisite Italian flavors. Explore the menu, savor the passion, and let your journey into pizza paradise begin.</p>
