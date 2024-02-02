@@ -113,12 +113,39 @@
 
 
 
-<div align="left">
-
-<p align="left">
 
 
 <h3 align="left">Languages & Tools:</h3>
+
+<section align="center"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange?logo=CSS3&logoColor=orange&labelColor=grey">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?logo=CSS3&logoColor=blue&labelColor=grey">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-yellow?logo=CSS3&logoColor=yellow&labelColor=grey">
+  <img alt="Static Badge" src="https://img.shields.io/badge/BOOTSTRAP-purple?logo=bootstrap&logoColor=white&labelColor=grey">
+  <img alt="Static Badge" src="https://img.shields.io/badge/EXPRESS-white?logo=Express&logoColor=white&labelColor=grey">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MONGODB-darkgreen?logo=Mongodb&logoColor=green&labelColor=grey">
+  <img alt="Static Badge" src="https://img.shields.io/badge/NODEJS-green?logo=node.js&logoColor=green&labelColor=grey">
+  <img alt="Static Badge" src="https://img.shields.io/badge/REACT-lightblue?logo=REACT&logoColor=LIGHTBLUE&labelColor=grey">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GIT-orange?logo=git&logoColor=orange&labelColor=grey">
+
+
+
+
+
+
+
+
+
+  
+</section>
+
+
+###
+
+
+
+
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=briannad23&show_icons=true&locale=en&layout=compact" alt="briannad23" /></p>
