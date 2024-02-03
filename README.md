@@ -102,7 +102,7 @@ Check out [my portfolio](https://briannaduncandevportfolio.netlify.app/) 🙂!
         <p align="center">
           
   <a href="https://github.com/BriannaD23/Pizza" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=lightbluef&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=lightblue&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://littleitalypizza.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=green&style=plastic&logo=wordpress&logo-color=white"/>
