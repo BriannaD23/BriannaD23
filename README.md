@@ -146,7 +146,7 @@ Check out [my portfolio](https://briannaduncandevportfolio.netlify.app/) 🙂
 ---
 
 
-<h1 align="left">Extras</h1>
+<h1 align="left">Extras: </h1>
 
 
 
