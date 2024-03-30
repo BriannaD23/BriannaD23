@@ -17,6 +17,8 @@
 <p align="left">
 I'm Brianna, a passionate Frontend JavaScript Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js) 🚀
 
+good bye Eugene
+
 Check out [my portfolio](https://briannaduncandevportfolio.netlify.app/) 🙂 !
 
 </p>
