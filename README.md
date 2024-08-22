@@ -49,6 +49,24 @@ Check out [my portfolio](https://briannaduncandevportfolio.netlify.app/) 🙂
         <p><strong>HTML5 CSS3 JavaScript</strong> - Welcome to Sneaker Room, where kicks are more than just shoes—they're a vibe. Dive into our curated collections for some serious sneaker game and let your style do the talking with kicks that tell your story.</p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center"> Island Spice</h3>
+        <br />
+        <a target="_blank" href="https://islandspice.netlify.app/">
+            <img src="/images/IslandSpice.gif" width="100%" alt="Jamaican Restuarant App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/BriannaD23/Island-Spice" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=lightblue&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href= "https://islandspice.netlify.app/"    target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=green&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5 CSS3 JavaScript</strong> - This vibrant guide to Island Spice, our Jamaican restaurant, showcases a rich variety of dishes, highlighting their authentic flavors, distinctive ingredients, and irresistible Caribbean charm.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center"> Pokedex </h3>
         <br />
       <a target="_blank" href="https://pokedexuniverse.netlify.app/">
