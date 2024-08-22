@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td style="width: 50%; padding: 10px; text-align: center; vertical-align: top;">
-      <h3>Pokedex!</h3>
+      <h3>Pokedex</h3>
       <a target="_blank" href="https://pokedexuniverse.netlify.app/">
         <img src="/images/Pokedex.gif" style="width: 100%;" alt="Pokedex"/>
       </a>
