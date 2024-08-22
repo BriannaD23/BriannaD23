@@ -12,7 +12,7 @@
   </a>
 </section>
 
-<h1 style="text-align: left;">Hey 🙂👋🏾 !!</h1>
+<h1 style="text-align: left;">Hey 🙂👋🏾 !</h1>
 
 <p style="text-align: left;">
   I'm Brianna, a passionate Frontend JavaScript Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js) 🚀
