@@ -73,8 +73,7 @@ Check out [my portfolio](https://briannaduncandevportfolio.netlify.app/) 🙂
             <img src="/images/Pokedex.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
-        <p align="center">
-          
+        <p align="center">  
   <a href="https://github.com/BriannaD23/Pokemon" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=lightblue&style=plastic&logo=github&logo-color=white"/>
   </a>
