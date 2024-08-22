@@ -74,8 +74,8 @@ Check out [my portfolio](https://briannaduncandevportfolio.netlify.app/) 🙂 !
     <td width="50%" valign="top">
       <h3 align="center"> Island Spice</h3>
       <br />
-        <a target="_blank" href="https://rickmortyuniverseapi.netlify.app">
-          <img src="/images/Rick&Morty.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://islandspice.netlify.app/">
+          <img src="/images/IslandSpice.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
